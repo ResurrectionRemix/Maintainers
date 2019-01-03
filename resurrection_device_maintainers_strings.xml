@@ -153,7 +153,7 @@
 
   <string name="device_sanders" translatable="false">Moto G5S Plus</string>
   <string name="device_sanders_codename" translatable="false">sanders</string>
-  <string name="device_sanders_maintainer" translatable="false">Keertesh </string>
+  <string name="device_sanders_maintainer" translatable="false">Rajesh </string>
 
   <string name="device_otus" translatable="false">Moto E 2015 3G</string>
   <string name="device_otus_codename" translatable="false">Otus</string>
@@ -746,7 +746,7 @@
 
   <string name="device_kenzo" translatable="false">Xiaomi Redmi Note 3</string>
   <string name="device_kenzo_codename" translatable="false">Kenzo</string>
-  <string name="device_kenzo_maintainer" translatable="false">amog787</string>
+  <string name="device_kenzo_maintainer" translatable="false">Alex9yust</string>
 
   <string name="device_mido" translatable="false">Xiaomi Redmi Note 4</string>
   <string name="device_mido_codename" translatable="false">mido</string>
