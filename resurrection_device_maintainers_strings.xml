@@ -153,7 +153,7 @@
 
   <string name="device_sanders" translatable="false">Moto G5S Plus</string>
   <string name="device_sanders_codename" translatable="false">sanders</string>
-  <string name="device_sanders_maintainer" translatable="false">Rajesh </string>
+  <string name="device_sanders_maintainer" translatable="false">Keertesh </string>
 
   <string name="device_otus" translatable="false">Moto E 2015 3G</string>
   <string name="device_otus_codename" translatable="false">Otus</string>
@@ -290,11 +290,11 @@
 
   <string name="device_herolte" translatable="false">Galaxy S7</string>
   <string name="device_herolte_codename" translatable="false">SM-G930F/FD/W8/S/K/L</string>
-  <string name="device_herolte_maintainer" translatable="false">Luke Williams </string>
+  <string name="device_herolte_maintainer" translatable="false">Ivan Meler </string>
 
   <string name="device_hero2lte" translatable="false">Galaxy S7 edge</string>
   <string name="device_hero2lte_codename" translatable="false">SM-G935F/FD/W8/S/K/L</string>
-  <string name="device_hero2lte_maintainer" translatable="false">Luke Williams </string>
+  <string name="device_hero2lte_maintainer" translatable="false">Ivan Meler</string>
 
   <string name="device_zerofltexx" translatable="false">Galaxy S6</string>
   <string name="device_zerofltexx_codename" translatable="false">SM-G920F/I/S/K/L</string>
@@ -322,7 +322,7 @@
    
   <string name="device_zenfone3" translatable="false">Zenfone 3</string>
   <string name="device_zenfone3_codename" translatable="false">ZE520KL/ZE552KL</string>
-  <string name="device_zenfone3_maintainer" translatable="false">Abhay Kshatriya (vegeto1806)</string> 
+  <string name="device_zenfone3_maintainer" translatable="false">Felipe Silva (lipebs)</string> 
 
   <string name="device_fortunave3g" translatable="false">Galaxy Grand Prime</string>
   <string name="device_fortunave3g_codename" translatable="false">SM-G530H</string>
@@ -746,7 +746,7 @@
 
   <string name="device_kenzo" translatable="false">Xiaomi Redmi Note 3</string>
   <string name="device_kenzo_codename" translatable="false">Kenzo</string>
-  <string name="device_kenzo_maintainer" translatable="false">amog787</string>
+  <string name="device_kenzo_maintainer" translatable="false">Alex9yust</string>
 
   <string name="device_mido" translatable="false">Xiaomi Redmi Note 4</string>
   <string name="device_mido_codename" translatable="false">mido</string>
@@ -871,6 +871,10 @@
   <string name="device_rolex" translatable="false">Xiaomi Redmi 4A</string>
   <string name="device_rolex_codename" translatable="false">rolex</string>
   <string name="device_rolex_maintainer" translatable="false">Ataberk Özen (MacTavishAO)</string>  
+
+  <string name="device_riva" translatable="false">Xiaomi Redmi 5A</string>
+  <string name="device_riva_codename" translatable="false">riva</string>
+  <string name="device_riva_maintainer" translatable="false">Steve Mathew Joy</string>
 
   <string name="device_wfxs" translatable="false">WilleyFox Swift</string>
   <string name="device_wfxs_codename" translatable="false">crackling</string>
