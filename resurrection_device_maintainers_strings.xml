@@ -874,7 +874,7 @@
 
   <string name="device_wfxs" translatable="false">WilleyFox Swift</string>
   <string name="device_wfxs_codename" translatable="false">crackling</string>
-  <string name="device_wfxs_maintainer" translatable="false">Semih ÇELİK (Wes)</string>
+  <string name="device_wfxs_maintainer" translatable="false">Dev4Perf</string>
 
   <string name="device_wfxk" translatable="false">WilleyFox Storm</string>
   <string name="device_wfxk_codename" translatable="false">kipper</string>
