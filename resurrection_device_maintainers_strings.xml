@@ -974,7 +974,7 @@
 
   <string name="device_z2_plus" translatable="false">Zuk Z2 PLUS</string>
   <string name="device_z2_plus_codename" translatable="false"> z2_plus</string>
-  <string name="device_z2_plus_maintainer" translatable="false">Mr.ACAR </string>
+  <string name="device_z2_plus_maintainer" translatable="false">Devabhi</string>
 
   <string name="device_ville" translatable="false">HTC One S</string>
   <string name="device_ville_codename" translatable="false">Ville</string>
