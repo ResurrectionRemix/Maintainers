@@ -271,12 +271,6 @@
             app:maintainer="@string/device_thea_maintainer"
             app:type="phone" />
         <com.android.settings.rr.Preferences.DevicePreference
-            android:id="@+id/device_osprey"
-            android:title="@string/device_osprey"
-            app:codename="@string/device_osprey_codename"
-            app:maintainer="@string/device_osprey_maintainer"
-            app:type="phone" />
-        <com.android.settings.rr.Preferences.DevicePreference
             android:id="@+id/device_athene"
             android:title="@string/device_athene"
             app:codename="@string/device_athene_codename"
@@ -470,6 +464,20 @@
             android:title="@string/device_zeroltexx"
             app:codename="@string/device_zeroltexx_codename"
             app:maintainer="@string/device_zeroltexx_maintainer"
+            app:type="phone" />
+
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_zerofltecan"
+            android:title="@string/device_zerofltecan"
+            app:codename="@string/device_zerofltecan_codename"
+            app:maintainer="@string/device_zerofltecan_maintainer"
+            app:type="phone" />
+
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_zeroltecan"
+            android:title="@string/device_zeroltecan"
+            app:codename="@string/device_zeroltecan_codename"
+            app:maintainer="@string/device_zeroltecan_maintainer"
             app:type="phone" />
 
         <com.android.settings.rr.Preferences.DevicePreference
@@ -1222,6 +1230,12 @@
             android:title="@string/device_tissot"
             app:codename="@string/device_tissot_codename"
             app:maintainer="@string/device_tissot_maintainer"
+            app:type="phone" />
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_jasmine"
+            android:title="@string/device_jasmine"
+            app:codename="@string/device_jasmine_codename"
+            app:maintainer="@string/device_jasmine_maintainer"
             app:type="phone" />
     </PreferenceCategory>
 

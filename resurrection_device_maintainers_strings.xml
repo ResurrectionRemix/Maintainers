@@ -149,7 +149,7 @@
 
   <string name="device_potter" translatable="false">Moto G5 Plus</string>
   <string name="device_potter_codename" translatable="false">Potter</string>
-  <string name="device_potter_maintainer" translatable="false">Akhil Menon (Akhmen18)</string>
+  <string name="device_potter_maintainer" translatable="false">Hammered-Cannibal</string>
 
   <string name="device_sanders" translatable="false">Moto G5S Plus</string>
   <string name="device_sanders_codename" translatable="false">sanders</string>
@@ -206,7 +206,7 @@
 
   <string name="device_klte" translatable="false">Galaxy S5</string>
   <string name="device_klte_codename" translatable="false">All klte variants</string>
-  <string name="device_klte_maintainer" translatable="false">BlackDeaths,fessmm</string>
+  <string name="device_klte_maintainer" translatable="false">fessmm</string>
 
   <string name="device_k3gxx" translatable="false">Galaxy S5</string>
   <string name="device_k3gxx_codename" translatable="false">K3gxx</string>
@@ -303,6 +303,14 @@
   <string name="device_zeroltexx" translatable="false">Galaxy S6 Edge</string>
   <string name="device_zeroltexx_codename" translatable="false">SM-G925F/I/S/K/L</string>
   <string name="device_zeroltexx_maintainer" translatable="false">Enes Uzun</string>
+
+  <string name="device_zerofltecan" translatable="false">Galaxy S6 T-Mobile</string>
+  <string name="device_zerofltecan_codename" translatable="false">SM-G920T/W8</string>
+  <string name="device_zerofltecan_maintainer" translatable="false">Enes Uzun</string>
+
+  <string name="device_zeroltecan" translatable="false">Galaxy S6 Edge T-Mobile</string>
+  <string name="device_zeroltecan_codename" translatable="false">SM-G925T/W8</string>
+  <string name="device_zeroltecan_maintainer" translatable="false">Enes Uzun</string>
 
   <string name="device_dreamlte" translatable="false">Galaxy S8</string>
   <string name="device_dreamlte_codename" translatable="false">SM-G950F/FD/N</string>
@@ -542,15 +550,11 @@
 
   <string name="device_falcon" translatable="false">Moto G</string>
   <string name="device_falcon_codename" translatable="false">Falcon</string>
-  <string name="device_falcon_maintainer" translatable="false">SKULSHADY</string>
+  <string name="device_falcon_maintainer" translatable="false">Hasaber8</string>
 
   <string name="device_titan" translatable="false">Moto G 2014</string>
   <string name="device_titan_codename" translatable="false">Titan</string>
   <string name="device_titan_maintainer" translatable="false">thedeadfish59</string>
-
-  <string name="device_osprey" translatable="false">Moto G 2015 </string>
-  <string name="device_osprey_codename" translatable="false">Osprey</string>
-  <string name="device_osprey_maintainer" translatable="false">Subins Mani</string>
 
   <string name="device_athene" translatable="false">Moto G4 Plus</string>
   <string name="device_athene_codename" translatable="false">athene</string>
@@ -764,6 +768,10 @@
   <string name="device_tissot_codename" translatable="false">Tissot</string>
   <string name="device_tissot_maintainer" translatable="false">Mountaser Halak</string>
 
+  <string name="device_jasmine" translatable="false">Xiaomi Mi A2</string>
+  <string name="device_jasmine_codename" translatable="false">Jasmine</string>
+  <string name="device_jasmine_maintainer" translatable="false">Stanislav Bukovetskiy(coderzs)</string>
+
   <string name="device_hydrogen" translatable="false">Xiaomi Mi Max</string>
   <string name="device_hydrogen_codename" translatable="false">Hydrogen</string>
   <string name="device_hydrogen_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
@@ -866,7 +874,7 @@
 
   <string name="device_santoni" translatable="false">Xiaomi Redmi 4X</string>
   <string name="device_santoni_codename" translatable="false">santoni</string>
-  <string name="device_santoni_maintainer" translatable="false">Nikesh Kataria</string>
+  <string name="device_santoni_maintainer" translatable="false">Aswin A S</string>
 
   <string name="device_wfxs" translatable="false">WilleyFox Swift</string>
   <string name="device_wfxs_codename" translatable="false">crackling</string>
@@ -882,7 +890,7 @@
 
   <string name="device_X00TD" translatable="false">Asus Zenfone Max Pro M1 </string>
   <string name="device_X00TD_codename" translatable="false">X00TD</string>
-  <string name="device_X00TD_maintainer" translatable="false">Shivam Kumar Jha </string>
+  <string name="device_X00TD_maintainer" translatable="false">Subins Mani </string>
 
   <string name="device_quark" translatable="false">Moto Maxx-Turbo, Droid Turbo </string>
   <string name="device_quark_codename" translatable="false">Quark</string>
@@ -970,7 +978,7 @@
 
   <string name="device_z2_plus" translatable="false">Zuk Z2 PLUS</string>
   <string name="device_z2_plus_codename" translatable="false"> z2_plus</string>
-  <string name="device_z2_plus_maintainer" translatable="false">Mr.ACAR </string>
+  <string name="device_z2_plus_maintainer" translatable="false">Devabhi</string>
 
   <string name="device_ville" translatable="false">HTC One S</string>
   <string name="device_ville_codename" translatable="false">Ville</string>
