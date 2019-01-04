@@ -1237,6 +1237,12 @@
             app:codename="@string/device_tissot_codename"
             app:maintainer="@string/device_tissot_maintainer"
             app:type="phone" />
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_jasmine"
+            android:title="@string/device_jasmine"
+            app:codename="@string/device_jasmine_codename"
+            app:maintainer="@string/device_jasmine_maintainer"
+            app:type="phone" />
     </PreferenceCategory>
 
     <PreferenceCategory
