@@ -776,6 +776,10 @@
   <string name="device_jasmine_codename" translatable="false">Jasmine</string>
   <string name="device_jasmine_maintainer" translatable="false">Stanislav Bukovetskiy(coderzs)</string>
 
+  <string name="device_jason" translatable="false">Xiaomi Mi Note 3</string>
+  <string name="device_jason_codename" translatable="false">jason</string>
+  <string name="device_jason_maintainer" translatable="false">EnesSastim</string>
+
   <string name="device_hydrogen" translatable="false">Xiaomi Mi Max</string>
   <string name="device_hydrogen_codename" translatable="false">Hydrogen</string>
   <string name="device_hydrogen_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
