@@ -764,6 +764,10 @@
   <string name="device_whyred_codename" translatable="false">whyred</string>
   <string name="device_whyred_maintainer" translatable="false">Shahan_mik3</string>
 
+  <string name="device_riva" translatable="false">Xiaomi Redmi 5A</string>
+  <string name="device_riva_codename" translatable="false">Riva</string>
+  <string name="device_riva_maintainer" translatable="false">RaySlash</string>
+
   <string name="device_tissot" translatable="false">Xiaomi Mi A1</string>
   <string name="device_tissot_codename" translatable="false">Tissot</string>
   <string name="device_tissot_maintainer" translatable="false">Mountaser Halak</string>
