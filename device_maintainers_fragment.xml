@@ -1021,7 +1021,7 @@
             android:id="@+id/device_oneplus3"
             android:title="@string/device_oneplus3"
             app:codename="@string/device_oneplus3_codename"
-            app:maintainer="@string/device_oneplus3_maintainer"
+            app:maintainer="@string/device_oneplus3_（袁廙）GeorgeYuan"
             app:type="phone" />
 
         <com.android.settings.rr.Preferences.DevicePreference
