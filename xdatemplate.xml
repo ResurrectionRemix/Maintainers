@@ -1,0 +1,100 @@
+[9.0][OFFICIAL]Resurrection Remix v7.0 [device_code]
+
+
+[CENTER][IMG="rrlogo"]https://imgur.com/jATb6ZC.png[/IMG]
+[I][B][SIZE="7"]Resurrection Remix P [/SIZE][/B][/I]
+
+[CODE][SIZE="4"]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/SIZE][/CODE]
+
+
+
+[IMG="rrabout"]https://i.imgur.com/IN7PhRM.png[/IMG]
+
+[B][INDENT]Resurrection Remix the ROM has been based on CM , SlimRoms, Omni and original Remix ROM builds, this creates an awesome 
+combination of performance, customization, power and the most new features, brought directly to your Device.
+
+Many things that in previous versions were tweaked with mods, are now included by default in the ROM so, please enjoy!
+Special thanks to, the CM team, Omni team , SlimRoms and of course to all the supporters.
+
+All the source code for Resurrection Remix is available in the RR [URL="https://github.com/ResurrectionRemix"]GitHub repo[/URL].
+Official Resurrection Remix ROM changelog: [URL]https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn[/URL]
+[/INDENT]
+[/B]
+
+
+[IMG="rrinstall"]https://i.imgur.com/sJ0ffrm.png[/IMG]
+
+[B]Make sure you are rooted
+Make sure you have a custom recovery installed(TWRP is the preferred recovery)
+Download the latest Resurrection Remix Rom & the latest GApps package
+Boot into recovery
+Backup your current ROM(Optional of course!)
+Backup EFS(VERY IMPORTANT, UNLESS YOU WANT IMEI LOSS)
+Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution
+Flash Resurrection Remix Rom
+Flash Google Apps package
+Flash Magisk Root
+First boot may take up to 10 minutes.[/B]
+
+
+[IMG="rrdownload"]https://i.imgur.com/gIXkoQi.png[/IMG]
+[B][SIZE="5"][URL="https://sourceforge.net/projects/resurrectionremix-oreo/files"]ROM Download[/URL]
+[URL="https://opengapps.org/"]GApps[/URL][/SIZE][/B]
+
+
+[IMG="rrsource"]https://i.imgur.com/GkCILpt.png[/IMG]
+
+[SIZE="3"][B][URL="https://github.com/ResurrectionRemix"]Resurrection Remix Source[/URL]
+[URL="https://github.com/ResurrectionRemix"]Device Source[/URL]
+[URL="https://github.com/ResurrectionRemix"]Kernel Source[/URL]
+[URL="https://github.com/ResurrectionRemix"]Vendor Source[/URL][/B][/SIZE]
+
+
+[IMG="rrthanks"]https://i.imgur.com/7HCW98U.png[/IMG]
+
+[B]XDA Developers
+LineageOs Team
+Dirty Unicorn
+Omni Team
+And Of Course To All The Supporters, Donators And Users[/B]
+
+
+[IMG="rrbugs"]https://i.imgur.com/fgbmjJN.png[/IMG]
+
+[B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you, Team Resurrection Remix and me quite some time.
+
+Download the [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"][U]Catlog[/U][/URL] app from the Play Store.
+There is also a donate version which you can purchase to show appreciation.
+After downloading the Catlog app, go to the app settings, and change the log level to Debug.
+Clear all previous logs and take the exact steps to produce the error you are receiving. As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.[
+Copy and paste the entire log either to [URL="http://hastebin.com"][U]Hastebin[/U][/URL] or [URL="http://pastebin.com"][U]Pastebin[/U][/URL]
+Save the log, and copy and paste the link into the thread with a brief description of the error.[/CENTER][/B]
+
+
+[CENTER][IMG="rrsocial"]https://i.imgur.com/eQhhBHn.png[/IMG]
+
+
+[URL="https://twitter.com/rrosofficial"][img]https://i.imgur.com/wxj43bm.png[/img][/URL] [URL="https://github.com/ResurrectionRemix"][img]https://i.imgur.com/GWxlx10.png[/img][/URL] [URL="https://plus.google.com/u/0/communities/109352646351468373340"][img]https://i.imgur.com/pjbiNy0.png[/img][/URL] [URL="https://www.facebook.com/resurrectionremixrom"][img]https://i.imgur.com/9qIZCN4.png[/img][/URL] [URL="https://t.me/resurrectionremixchannel"][img]https://i.imgur.com/inoKKEM.png[/img][/URL][/CENTER]
+
+
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]Resurrection Remix 7.0, ROM for the device_code [/B][/SIZE]
+
+[B][U]Contributors:[/U][/B]
+[B]ROM OS Version:[/B] 9.x Pie
+[B]ROM Based:[/B] LineageOs
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+
+[B]Created[/B] 2019-01-09
+[B]Last Updated[/B] 2019-01-09
