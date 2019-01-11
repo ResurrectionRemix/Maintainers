@@ -1597,5 +1597,12 @@
             app:codename="@string/device_google_dragon_codename"
             app:maintainer="@string/device_google_dragon_maintainer"
             app:type="tablet" />
+	    
+	<com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_yukawa"
+            android:title="@string/device_yukawa"
+            app:codename="@string/device_yukawa_codename"
+            app:maintainer="@string/device_yukawa_maintainer"
+            app:type="phone" />
     </PreferenceCategory>
 </PreferenceScreen>
