@@ -840,10 +840,6 @@
   <string name="device_huashan_codename" translatable="false">Huashan</string>
   <string name="device_huashan_maintainer" translatable="false">CodeZero, Adrian DC</string>
 
-  <string name="device_z012d" translatable="false">Asus Zenfone 3</string>
-  <string name="device_z012d_codename" translatable="false">Z012D</string>
-  <string name="device_z012d_maintainer" translatable="false">Ezio (TurkDevs)</string>
-
   <string name="device_z00a" translatable="false">Asus Zenfone 2</string>
   <string name="device_z00a_codename" translatable="false">Z00A</string>
   <string name="device_z00a_maintainer" translatable="false">sayeed99</string>
