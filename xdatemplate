@@ -66,10 +66,9 @@ And Of Course To All The Supporters, Donators And Users[/B]
 
 [B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you, Team Resurrection Remix and me quite some time.
 
-Download the [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"][U]Catlog[/U][/URL] app from the Play Store.
-There is also a donate version which you can purchase to show appreciation.
-After downloading the Catlog app, go to the app settings, and change the log level to Debug.
-Clear all previous logs and take the exact steps to produce the error you are receiving. As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.
+Download the [URL="https://play.google.com/store/apps/details?id=com.pluscubed.matlog&hl=de"][U]MatLog[/U][/URL] app from the Play Store.
+After downloading the MatLog app, go to the app settings, and change the log level to Debug.
+Clear all previous logs and take the exact steps to produce the error you are receiving. As soon as you receive the error (probably a force close), go straight into MatLog and stop the log recording.
 Copy and paste the entire log either to [URL="http://hastebin.com"][U]Hastebin[/U][/URL] or [URL="http://pastebin.com"][U]Pastebin[/U][/URL]
 Save the log, and copy and paste the link into the thread with a brief description of the error.[/CENTER][/B]
 
