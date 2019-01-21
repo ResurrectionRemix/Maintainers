@@ -780,6 +780,10 @@
   <string name="device_jasmine_codename" translatable="false">Jasmine</string>
   <string name="device_jasmine_maintainer" translatable="false">Stanislav Bukovetskiy(coderzs)</string>
 
+  <string name="device_wayne" translatable="false">Xiaomi Mi 6X</string>
+  <string name="device_wayne_codename" translatable="false">Wayne</string>
+  <string name="device_wayne_maintainer" translatable="false">Stanislav Bukovetskiy(coderzs)</string>
+
   <string name="device_jason" translatable="false">Xiaomi Mi Note 3</string>
   <string name="device_jason_codename" translatable="false">jason</string>
   <string name="device_jason_maintainer" translatable="false">EnesSastim</string>
