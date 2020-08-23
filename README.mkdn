@@ -47,5 +47,8 @@ If commits are needed in repos other than the device specific ones, they must:
 Be necessary for the device to build, boot, or otherwise function.
 
 
-If you agree with all these please fill out this [form](https://forms.gle/wKqdCcxqbTM7G8cu6)
+If you agree with all these please drop a Pull Request to [this repo](https://github.com/ResurrectionRemix/Resurrection_packages_apps_Settings), use [this commit](https://github.com/ResurrectionRemix/Resurrection_packages_apps_Settings/commit/46cb133b097cc958700c5a4e3dabd4a6764d3002) as a reference to make your PR.
+
+Add your Device Tree, Kernel Sources on the comments of your PR.
+
 Please wait for atleast 3 days for a review.
